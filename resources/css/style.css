@@ -34,7 +34,19 @@ header {
   width: 100%;
 }
 
-img {
-  height: 2rem;
+header img {
+  height: 3rem;
+}
+
+.brand {
+  margin-left: 2rem;
+}
+
+.brand, .logo, nav {
+  display: inline;
+}
+
+nav {
+  margin-right: 2rem;
 }
 /* */
