@@ -32,6 +32,7 @@ header {
   z-index: 1;
   background-color: white;
   width: 100%;
+  justify-content: space-between;
 }
 
 header img {
@@ -39,7 +40,7 @@ header img {
 }
 
 .brand {
-  margin-left: 2rem;
+  margin-left: 3rem;
 }
 
 .brand, .logo, nav {
@@ -48,5 +49,9 @@ header img {
 
 nav {
   margin-right: 2rem;
+}
+
+nav a {
+  padding: 1rem;
 }
 /* */
