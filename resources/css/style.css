@@ -67,4 +67,11 @@ a:hover {
   color: black;
   font-weight: 500;
 }
+
+#roundels div {
+  width: 20rem;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+}
 /* */
