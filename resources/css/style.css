@@ -54,4 +54,17 @@ nav {
 nav a {
   padding: 1rem;
 }
+
+.hero-image img {
+  width: 100%;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
 /* */
